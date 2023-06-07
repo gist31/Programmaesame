@@ -1,0 +1,15 @@
+/home/cervo/Desktop/dimostrazione sintassi c#/bin/Debug/net7.0/dimostrazione sintassi c#
+/home/cervo/Desktop/dimostrazione sintassi c#/bin/Debug/net7.0/dimostrazione sintassi c#.deps.json
+/home/cervo/Desktop/dimostrazione sintassi c#/bin/Debug/net7.0/dimostrazione sintassi c#.runtimeconfig.json
+/home/cervo/Desktop/dimostrazione sintassi c#/bin/Debug/net7.0/dimostrazione sintassi c#.dll
+/home/cervo/Desktop/dimostrazione sintassi c#/bin/Debug/net7.0/dimostrazione sintassi c#.pdb
+/home/cervo/Desktop/dimostrazione sintassi c#/obj/Debug/net7.0/dimostrazione sintassi c#.csproj.AssemblyReference.cache
+/home/cervo/Desktop/dimostrazione sintassi c#/obj/Debug/net7.0/dimostrazione sintassi c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/cervo/Desktop/dimostrazione sintassi c#/obj/Debug/net7.0/dimostrazione sintassi c#.AssemblyInfoInputs.cache
+/home/cervo/Desktop/dimostrazione sintassi c#/obj/Debug/net7.0/dimostrazione sintassi c#.AssemblyInfo.cs
+/home/cervo/Desktop/dimostrazione sintassi c#/obj/Debug/net7.0/dimostrazione sintassi c#.csproj.CoreCompileInputs.cache
+/home/cervo/Desktop/dimostrazione sintassi c#/obj/Debug/net7.0/dimostrazione sintassi c#.dll
+/home/cervo/Desktop/dimostrazione sintassi c#/obj/Debug/net7.0/refint/dimostrazione sintassi c#.dll
+/home/cervo/Desktop/dimostrazione sintassi c#/obj/Debug/net7.0/dimostrazione sintassi c#.pdb
+/home/cervo/Desktop/dimostrazione sintassi c#/obj/Debug/net7.0/dimostrazione sintassi c#.genruntimeconfig.cache
+/home/cervo/Desktop/dimostrazione sintassi c#/obj/Debug/net7.0/ref/dimostrazione sintassi c#.dll
