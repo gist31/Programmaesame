@@ -1,20 +1,34 @@
-﻿System.Console.WriteLine("Geben Sie eine Nummer ein:");
+using System.Numerics;
+using System.Collections.Generic;
+
+
+namespace prova_atom
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("Geben sie eine Nummer ein:");
             
-long num = Convert.ToInt32(Console.ReadLine());
+            long num = System.Convert.ToInt32(System.Console.ReadLine());
 
-List<long> CalcoliInArray = new List<long>();
+            List<long> CalcoliInArray = new List<long>();
 
-while (num != 0)
-{
-    CalcoliInArray.Add(num);
-    num--;
-} 
+            while (num != 0)
+            {
+                CalcoliInArray.Add(num);
+                num--;
+            } 
 
-long factorial = 1;
+            BigInteger factorial = 1;
 
-foreach (var CalcoloInArray in CalcoliInArray)
-{
-    factorial *= CalcoloInArray;
+            foreach (var CalcoloInArray in CalcoliInArray)
+            {
+                factorial *= CalcoloInArray;
+            }
+            
+            System.Console.WriteLine(factorial);
+        }
+    }
+
 }
-            
-System.Console.WriteLine(factorial);
